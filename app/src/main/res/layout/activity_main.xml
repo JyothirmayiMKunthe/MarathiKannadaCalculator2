@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <EditText
+        android:hint="flks"
         android:id="@+id/calcET"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
